@@ -37,7 +37,7 @@ button {
 }
 
 li {
-list-style: none;
-  color: red;
+  color: rgb(6, 6, 6);
   border-color: blueviolet;
+  
 }
